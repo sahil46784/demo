@@ -1,0 +1,96 @@
+
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+h1{
+    margin-left: 3rem;
+    font-weight: 400;
+}
+
+li{
+    list-style: none;
+    margin-left: 2rem;
+    padding-top: 8px;
+    font-size: 2rem;
+}
+
+
+.simi>img{
+    height: 100vh;
+    width: 95vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+
+.sahil{
+    height: 80px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+.sahil>p{
+    font-size: 25px;
+    
+}
+
+.salman{
+    display: flex    
+}
+
+.salman>div{
+    margin-left: 1vw;
+    width: 30vw;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.navbar>nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    margin-right: 2rem;
+}
+
+.salman>div>img{
+    height: 160px;
+    width: 160px;px;
+}
+
+.salman>div>p{
+    padding: 3rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+a:link, a:visited{
+    color: black;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
